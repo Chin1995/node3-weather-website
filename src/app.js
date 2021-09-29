@@ -1,3 +1,4 @@
+'use strict'
 /*
 //Webserver weather app Hello express
 const express = require("express");
