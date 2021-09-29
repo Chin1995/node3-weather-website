@@ -1233,7 +1233,7 @@ const hbs = require("hbs");
 const { response } = require("express");
 const e = require("express");
 const app = express();
-const port = process.env.PORT || 3000
+const port = process.env.PORT || 3000;
 
 
 // Define paths for Express config
